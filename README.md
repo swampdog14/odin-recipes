@@ -1,1 +1,1 @@
-
+This is the final project for the HTML section of The Odin Project's 'Foundations' module. I will create a series of pages on my website listing three recipes. I will demonstrate my skills of creating links, embedding images, and formatting text that is readable by human eye, and assistive technologies such as screen readers. The main page will host a brief introduction to myself, will have an image, and link to several recipes on the website.
