@@ -1,0 +1,41 @@
+*{
+    background-color: hsl(101, 49%, 92%);
+}
+
+.titletext{
+    font-family: Georgia, 'Times New Roman';
+    font-size: 30px;
+    text-align: center;
+}
+
+.list{
+    font-family: Georgia, 'Times New Roman';
+    font-size: 22px;
+}
+
+.photo{
+    height: auto;
+    width: 800px;
+    margin:auto;
+    display:block
+}
+
+.bodytext{
+    font-family: Georgia, 'Times New Roman';
+    font-size: 22px;
+    text-align: center;
+}
+
+.ingredients-instructions{
+    font-size: 25px;
+    line-height: 0cm;
+    margin-left: 65px;
+    text-decoration-line: underline;
+    font-family: Georgia, 'Times New Roman';
+
+}
+
+li{
+    margin:10px
+   
+}
